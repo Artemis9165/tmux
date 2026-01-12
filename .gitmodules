@@ -1,0 +1,9 @@
+[submodule "plugins/tpm"]
+	path = plugins/tpm
+	url = https://github.com/tmux-plugins/tpm.git
+[submodule "plugins/tmuxifier"]
+	path = plugins/tmuxifier
+	url = https://github.com/jimeh/tmuxifier.git
+[submodule "plugins/vim-tmux-navigator"]
+	path = plugins/vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator.git
